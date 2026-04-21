@@ -2,10 +2,7 @@ line1
 line2 text
 while
 {
-
-
-	fn();
-	editing...
+	
 }
 
 
